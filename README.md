@@ -1,9 +1,12 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155856738-106e3ee8-ee21-472c-b3db-e6a440724564.svg">
+   <img  src="https://user-images.githubusercontent.com/78514869/155858013-887dd01c-2d96-44ac-b8f6-c5d10afeb89f.svg">
 </div>
 
-<h3 align="center">
-    Application where your main objective is to refactor a page to list movies according to genre
+
+
+
+<h3 align="center">  
+  Space Traveling is a blog connected to Prismic CMS,
 </h3>
 
 <h4 align="center"> 
@@ -59,13 +62,8 @@ The following tools were used in the construction of the project:
 * **Home**
 <br/>
 
-![dashboard](https://user-images.githubusercontent.com/78514869/155856737-0eb23186-967f-4875-bb41-f60283069062.png)
+![blog](https://user-images.githubusercontent.com/78514869/155858006-572d2498-66e0-47e0-8a34-47fb791b0ca3.png)
 
-
-* **Shopping cart**
-<br/>
-
-![carrinho](https://user-images.githubusercontent.com/78514869/155856736-6bdf1534-d169-46af-9e3d-1cdb38946ee4.png)
 
 
 ## Getting Started
@@ -84,9 +82,13 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/ignite-desafio-reactjs-criando-um-hook-de-carrinho-de-compras.git
-2. cd ignite-desafio-reactjs-criando-um-hook-de-carrinho-de-compra
+1. git clone https://github.com/franciscovinicios/spacetraveling..git
+2. cd spacetraveling.
 ```
+
+
+* Add your environment variables in the file .env.example :
+* Change the file name to .env
 
 * Install the dependencies and start the project:
 
@@ -102,8 +104,6 @@ or
 3. npm install
 4. npm dev
 ```
-
-
 
 
 
