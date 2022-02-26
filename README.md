@@ -55,7 +55,6 @@ The following tools were used in the construction of the project:
 -   **NextJs**
 -   **Prismic CMS**
 -   **Sass**
--   
 
 ## Layout
 
@@ -87,8 +86,10 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 ```
 
 
-* Add your environment variables in the file .env.example :
-* Change the file name to .env
+```
+ Add your environment variables in the file .env.example :
+ Change the file name to .env
+```
 
 * Install the dependencies and start the project:
 
